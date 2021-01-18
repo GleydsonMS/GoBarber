@@ -7,3 +7,5 @@ tmp/*
 temp/
 
 ormconfig.json
+
+.vscode
