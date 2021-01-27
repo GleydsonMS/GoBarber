@@ -9,3 +9,5 @@ temp/
 ormconfig.json
 
 .vscode
+
+coverage
