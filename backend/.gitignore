@@ -11,3 +11,5 @@ ormconfig.json
 .vscode
 
 coverage
+
+.env
